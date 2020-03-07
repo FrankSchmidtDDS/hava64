@@ -1,0 +1,22 @@
+{
+    "name": "hava64",
+    "dependencies": {
+        "device": "*"
+    },
+    "description": "",
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "fhs1.ts",
+        "fhsdds.ts",
+        "frank4.ts",
+        "hava2.ts",
+        "hava3.ts",
+        "hava64.ts"
+    ],
+    "preferredEditor": "blocksprj",
+    "testFiles": [
+        "test.ts"
+    ]
+}
